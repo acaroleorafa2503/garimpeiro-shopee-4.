@@ -1,0 +1,13 @@
+CHECKLIST SAZONAL — Organizador ajustável de panelas
+
+[ ] Confirmar mês de início da alta
+[ ] Confirmar fornecedor e prazo
+[ ] Definir estoque inicial
+[ ] Atualizar preço
+[ ] Revisar título e imagens
+[ ] Preparar vídeo
+[ ] Preparar kit/oferta
+[ ] Definir orçamento inicial de Ads
+[ ] Definir ROAS mínimo
+[ ] Criar data de revisão
+[ ] Definir plano de saída para evitar encalhe
